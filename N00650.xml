@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000789_0000_0FAA5555839A1A98"/>
-            <pb facs="tcp:000789_0001_0FAA55574C8064C8"/>
+            <pb facs="unknown:000789_0000_0FAA5555839A1A98"/>
+            <pb facs="unknown:000789_0001_0FAA55574C8064C8"/>
             <p>ACTS AND LAWS, Paſſed by the Great and General Court or Aſſembly of His Majeſties Province of the Maſſachuſetts-Bay, in New-England.</p>
             <p>Begun and Held at <hi>Boſton</hi> the Twenty-ſixth of <hi>May,</hi> 1697. and continued by ſeveral Prorogations until <hi>Wedneſday</hi> the Thirteenth of <hi>October</hi> following: being the Third Seſſion.</p>
             <p>Anno Regni <hi>Guilielmi</hi> Tertii, Angliae, Scotiae, Franciae, et Hiberniae, Regis, <hi>Nono.</hi>
@@ -121,7 +121,7 @@
       </front>
       <body>
          <div type="acts">
-            <pb n="229" facs="tcp:000789_0002_0FAA5557B684E8C0"/>
+            <pb n="229" facs="unknown:000789_0002_0FAA5557B684E8C0"/>
             <head>Anno Regni <hi>Guilielmi</hi> Tertii, Angliae, Scotiae, Franciae, et Hiberniae, REGIS, <hi>Nono.</hi>
             </head>
             <div type="act">
@@ -135,7 +135,7 @@
                <p>That there ſhall be paid out of the publick Treaſury of this Pro<g ref="char:EOLhyphen"/>vince,<note place="margin">Fifty Pounds Reward for an Indian Scalp.</note> unto any Party or Parties that ſhall voluntarily go forth at their own Charge <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Commiſſion as aforeſaid, in the diſcovery and purſuit of the ſaid Indian Enemy and Rebels, for every man or wo<g ref="char:EOLhyphen"/>man of the ſaid Enemy that ſhall be by them ſlain the Sum of Fifty Pounds, and for every Child of the ſaid Enemy,<note place="margin">Ten Pounds for a Child under 10. years beſides Plunder and Priſoners.</note> under the Age of Ten Years, that ſhall be by them ſlain, the Sum of Ten Pounds, and that ſuch Party or Parties ſhall alſo have and keep unto their own uſe all Plunder and Priſoners by them taken of the Enemy; and that there ſhall be likewiſe paid out of the publick Treaſury for every man or woman of the ſaid Enemy that ſhall be Slain in the defence of any Houſe or Garriſon attacked or otherwiſe, the Sum of Five Pounds. All which aforeſaid payments ſhall be made by order of the Governour and Council, upon producing before them the Scalp of any Indian Slain as aforeſaid, and upon Oath made of the time, place and other circumſtances relating thereto, and that it is the Scalp of the Indian that was then ſo Slain. And in caſe any perſon or perſons ſhall be wounded in the aforeſaid Service,<note place="margin">Cure &amp; Pen<g ref="char:EOLunhyphen"/>ſion.</note> he or they ſhall be cured at the Charge of the Publick, and if mai<g ref="char:EOLhyphen"/>med or otherwiſe diſabled, ſhall have ſuch Stipend or Penſion al<g ref="char:EOLhyphen"/>lowed unto him or them, as the General Court or Aſſembly ſhall think meet. And the Reward herein before granted ſhall be equal<g ref="char:EOLhyphen"/>ly ſhared and diſtributed to and among all the perſons of any party
-<pb n="230" facs="tcp:000789_0003_0FAA55588F968250"/>
+<pb n="230" facs="unknown:000789_0003_0FAA55588F968250"/>
 or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char:EOLhyphen"/>foreſaid, only the Captain to have two Shares, and the Lieutenant one Share and half thereof. And the Plunder and Priſoners that ſhall be taken, to be diſtributed in like ſhares and proportion, unleſs where any party or parties ſhall otherwiſe agree among themſelves.</p>
                <p>
                   <hi>And be it further Enacted by the Authority aforeſaid,</hi>
@@ -149,7 +149,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                   <hi>Provided</hi> alſo, That this Act ſhall continue in force until the laſt day of <hi>June</hi> next, (if the War ſo long continue) and not af<g ref="char:EOLhyphen"/>terwards.</p>
             </div>
             <div type="act">
-               <pb n="231" facs="tcp:000789_0004_0FAA555938BB7BB8"/>
+               <pb n="231" facs="unknown:000789_0004_0FAA555938BB7BB8"/>
                <head>An Act, For Reviving the Act to prevent the deſerting of the Frontiers.</head>
                <p>
                   <hi>WHEREAS the Act Entituled</hi> An Act, To prevent the Deſerting of the Frontiers, <hi>Made and Paſsed by the Great and General Court or Aſſembly, at the Seſſion thereof by Adjournment the Twenty Seventh Day of</hi> February, <hi>which was in the Year of our Lord,</hi> One Thouſand Six Hundred Ninety Four, <hi>Expired the Twenty Ninth Day of</hi> June <hi>last paſt. And it being judged neceſſary for His Ma<g ref="char:EOLhyphen"/>jeſties Service, that the ſaid Act be revived and further continued.</hi>
@@ -166,7 +166,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                </p>
                <p>For Prevention whereof, and to the intent that ſuch Priſoners may be ſutably Relieved and Provided for.</p>
                <p>
-                  <pb n="232" facs="tcp:000789_0005_0FAA555A02C2AA40"/>
+                  <pb n="232" facs="unknown:000789_0005_0FAA555A02C2AA40"/>
                   <hi>Be it Enacted and Declared by the Lieutenant Governour, Council and Re<g ref="char:EOLhyphen"/>preſentatives in General Court Aſſem<g ref="char:EOLhyphen"/>bled, and by the Authority of the ſame,</hi>
                </p>
                <p>That no Commander of any of His Majeſties Ships, or of any Private Man of War,<note place="margin">No French Priſoners of War to be landed but by Licence from the Gover<g ref="char:EOLhyphen"/>nour.</note> or Maſter of any other Ship or Veſſel bring<g ref="char:EOLhyphen"/>ing any French Priſoners of War into this Province <gap reason="illegible: indecipherable" extent="1 span">
@@ -176,7 +176,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                   <hi>And be it further Enacted by the Authority aforeſaid,</hi>
                </p>
                <p>That all Maſters of Merchant Ships or other Veſſels Sayling out of this Province from time to time for ſuch Ports and places in <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> or elſe where as the Governour and Commander in Chief may think proper to ſend any <hi>French</hi> Priſoners unto,<note place="margin">Merchant Skips to tranſport Pri<g ref="char:EOLhyphen"/>ſoners of War as the Gover<g ref="char:EOLhyphen"/>nour ſhall order.</note> in order to their get<g ref="char:EOLhyphen"/>ing to ſome of the <hi>French</hi> Dominions, before the granting of their Clearings in order to Sayl, ſhall be obliged to receive on Board ſuch Ship or Veſſel ſo many &amp; ſuch Priſoners as the Governour &amp; Com<g ref="char:EOLhyphen"/>mander in Chief by order in Writing under his Hand ſhall direct and cauſe to be ſent on Board for Tranſportation, provided the number ſo ordered do not exceed one ſixth part of the Company improved for the Sayling ſuch Ship or Veſſel, and that they have their paſſage for their labour, if capable of Service at Sea; but if otherwiſe any ſuch Priſoners be impotent, are Gentlemen, Mer<g ref="char:EOLhyphen"/>chants, or were Commanders of Ships at the time of their Caption, the paſſages of ſuch to be paid for after the uſual and accuſtomed rate, out of the Publick Treaſury of the Province for ſo many as were brought in by His Majeſties Ships or other Veſſels under His Majeſties Pay, and for others by them that brought them in. And if any Commander or Maſter of any Merchant Ship or Veſſel af<g ref="char:EOLhyphen"/>ter
-<pb n="233" facs="tcp:000789_0006_0FAA555AD3D7A2B8"/>
+<pb n="233" facs="unknown:000789_0006_0FAA555AD3D7A2B8"/>
 ſuch Priſoners being ſent on Board, ſhall permit or ſuffer any of them to come on Shore or to be Landed in any part of this Pro<g ref="char:EOLhyphen"/>vince,<note place="margin">Penalty for permitting any to come on ſhore af<g ref="char:EOLhyphen"/>ter being ſent on board.</note> ſuch Commander or Maſter ſhall forfeit and pay for ſuch his contempt and neglect, the Sum of Five Pounds for every perſon put or ſuffered to come on Shore, to be recovered, imployed and diſpo<g ref="char:EOLhyphen"/>ſed of in manner as is herein before directed.</p>
                <p>
                   <hi>And be it further Enacted by the Authority aforeſaid,</hi>
@@ -194,7 +194,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                </p>
                <p>To the intent therefore that the Precedents and Forms of Writs &amp; Proceſſes eſtabliſhed by the afore recited Act, with the amendments and alterations of the ſame, made as aforeſaid, may be further conti<g ref="char:EOLhyphen"/>nued in force until other Proviſion be made.</p>
                <p>
-                  <pb n="234" facs="tcp:000789_0007_0FAA555B7503E640"/>
+                  <pb n="234" facs="unknown:000789_0007_0FAA555B7503E640"/>
                   <hi>It is hereby Enacted and Declared by the Lieutenant Go<g ref="char:EOLhyphen"/>
                      <gap reason="illegible: indecipherable" extent="4 letters">
                         <desc>••••</desc>
@@ -215,7 +215,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                   <hi>Provided</hi> always, That ſuch of the ſaid Coynes as paſs by tale, be not diminiſhed by Waſhing, Clipping, Rounding, Fileing or Scal<g ref="char:EOLhyphen"/>ing.</p>
             </div>
             <div type="act">
-               <pb n="235" facs="tcp:000789_0008_0FAA555C745A4860"/>
+               <pb n="235" facs="unknown:000789_0008_0FAA555C745A4860"/>
                <head>AN ACT, Againſt Murder.</head>
                <p>BE it Enacted by the Lieutenant Go<g ref="char:EOLhyphen"/>vernour, Council &amp; Repreſentatives in General Court Aſſembled and by the Authority of the ſame,</p>
                <p>
@@ -246,7 +246,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                <p>That the ſame Offence be adjudged Felony, and ſuch Order and Form of Proceſs therein to be uſed againſt the Offenders as in caſes of Felony. And that every man being duely convicted of lying with mankind as he lyeth with a woman. And every man or wo<g ref="char:EOLhyphen"/>man that ſhall have carnal copulation with any Beaſt or brute Crea<g ref="char:EOLhyphen"/>ture, the Offender and Offenders in either of the caſes before menti<g ref="char:EOLhyphen"/>oned, ſhall ſuffer the pains of Death, and the Beaſt ſhall be Slain and Burned.</p>
             </div>
             <div type="act">
-               <pb n="236" facs="tcp:000789_0009_0FAA555CF19B5358"/>
+               <pb n="236" facs="unknown:000789_0009_0FAA555CF19B5358"/>
                <head>An Act, Againſt Atheiſm &amp; Blaſphemy.</head>
                <p>
                   <hi>BE it Declared and Enacted by the Lieutenant Gover<g ref="char:EOLhyphen"/>nour Council, and Repreſentatives, Convened in Ge<g ref="char:EOLhyphen"/>neral Court or Aſſembly, and it is Enacted by the Authority of the ſame,</hi>
@@ -260,7 +260,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                </p>
                <p>
                   <pb n="237"
-                      facs="tcp:000789_0010_0FAA55656D690FA0"
+                      facs="unknown:000789_0010_0FAA55656D690FA0"
                       rendition="simple:additions"/>
                   <hi>Be it Enacted and Declared by the Lieutenant Governour, Council and Repreſentatives in General Court Aſſembled, and by the Authority of the ſame.</hi>
                </p>
@@ -273,7 +273,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                <p>
                   <hi>Provided,</hi> That nothing in this Act ſhall be conſtrued, deemed or extended to bar any Widow of any Vender or Mortgager of Lands or Tenements from her Dower or Right in or to ſuch Lands or Tenements;<note place="margin">Saving for Dower.</note> who did not legally joyn with her Husband in ſuch Sale or Mortgage, or otherwiſe lawfully bar or exclude her ſelf from ſuch her Dower or Right.</p>
                <p>
-                  <pb n="238" facs="tcp:000789_0011_0FAA5568F5EA8D20"/>
+                  <pb n="238" facs="unknown:000789_0011_0FAA5568F5EA8D20"/>
                   <hi>And it is further Enacted by the Authority aforeſaid,</hi>
                </p>
                <p>That any Mortgagee of any Lands or Tenements, his or her Heirs, Executors or Adminiſtrators having received full ſatisfaction and payment of all ſuch Sum and Sums of money as are really due to him by ſuch Mortgage,<note place="margin">How Mort<g ref="char:EOLhyphen"/>gages ſhall be diſcharged.</note> ſhall at the requeſt of the Mortgager, his Heirs, Executors or Adminiſtrators acknowledge and cauſe ſuch ſa<g ref="char:EOLhyphen"/>tisfaction and payment to be Entred in the Margent of the Record of ſuch Mortgage in the Regiſters Office, and ſhall ſign the ſame, which ſhall for ever thereafter diſcharge, defeat and releaſe ſuch Mortgage, and perpetually bar all actions to be brought thereupon in any Court of Record. And if ſuch Mortgagee his or her Heirs, Executors or Adminiſtrators ſhall not within ten days next after re<g ref="char:EOLhyphen"/>queſt in that behalf made, and tender of his, her or their reaſonable charges, repair to the Regiſters Office, and there make and ſign ſuch acknowledgment as aforeſaid, or otherwiſe ſign and ſeal a diſcharge of the ſaid Mortgage, and releaſe and quit claim to the Eſtate there<g ref="char:EOLhyphen"/>in mentioned to be granted, and acknowledge the ſame before a Juſtice of Peace, he, ſhe or they ſo refuſing, ſhall be liable to make good all damages for want of ſuch diſcharge or releaſe to be recover<g ref="char:EOLhyphen"/>ed by Action or Suit in any Court of Record, and in caſe Judgement paſs againſt the Party ſo Sued, he, ſhe or they ſo caſt, ſhall pay unto the adverſe Party treble coſts ariſing upon ſuch Suit.</p>
@@ -293,7 +293,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                </closer>
             </div>
             <div type="act">
-               <pb facs="tcp:000789_0012_0FAA556AA8A10FE0"/>
+               <pb facs="unknown:000789_0012_0FAA556AA8A10FE0"/>
                <head>An Act, Of Limitation for Quieting of Poſſeſſions.</head>
                <p>
                   <hi>WHEREAS a good and beneficial Act was made by the late Governour and Company of the Colony of the</hi> Maſſachuſetts Bay, <hi>in the Year of <gap reason="illegible: indecipherable" extent="1 span">
@@ -320,7 +320,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                </p>
                <p>For prevention whereof, and for the further quieting of Poſſeſ<g ref="char:EOLhyphen"/>ſions and Setling of Titles.</p>
                <p>
-                  <pb n="240" facs="tcp:000789_0013_0FAA556B369EC1F0"/>
+                  <pb n="240" facs="unknown:000789_0013_0FAA556B369EC1F0"/>
                   <hi>Be it Enacted &amp; Declared by the Lieu<g ref="char:EOLhyphen"/>tenant Governour, Council and Repreſen<g ref="char:EOLhyphen"/>tatives, in General Court Aſſembled, and by the Authority of the ſame,</hi>
                </p>
                <p>That every perſon and perſons who were poſſeſſed in his and their own proper right <gap reason="illegible: indecipherable" extent="1 word">
@@ -360,7 +360,7 @@ or parties, that ſhall be in Company at the Killing any Indian as a<g ref="char
                   <hi>Be it therefore further Provided and Declared by the Authority aforeſaid,</hi>
                </p>
                <p>That the Limitation of time for the continuance of Poſſeſſion by this Act prefixed, ſhall not extend or be underſtood to extend unto any Houſes or Lands lying to the Eaſtward of <hi>Piſcataque River,</hi> or in other the Frontiers, but the ſame time ſhall be, and hereby is en<g ref="char:EOLhyphen"/>larged and lengthened out for the ſpace of five years next after the ending of the War with the Indians, during which ſpace all perſons
-<pb n="241" facs="tcp:000789_0014_0FAA556BFA3DCE28"/>
+<pb n="241" facs="unknown:000789_0014_0FAA556BFA3DCE28"/>
 may purſue their right and claim to any Houſes and Lands lying in thoſe parts and places and every of them. And that no perſon or perſons pretending right or title in or to any Lands lying within this Province purchaſed of any Indian or Indians,<note place="margin">Lands pur<g ref="char:EOLhyphen"/>chas'd of <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> without orderly al<g ref="char:EOLhyphen"/>lowance <hi>&amp;c.</hi> not confirm<g ref="char:EOLhyphen"/>ed by this Act</note> without orderly allowance and confirmation thereof had, according to former Laws and Uſage of the ſeveral late Colonies of <hi>Maſſachuſetts</hi> and <hi>New-Plimouth,</hi> and <hi>Province of Main</hi> reſpectively ſhall have or receive any benefit by this act with reference to ſuch Lands.</p>
                <closer>
                   <date>[<hi>Publiſh't</hi> 30<hi>th. October,</hi> 1697.]</date>
@@ -376,7 +376,7 @@ may purſue their right and claim to any Houſes and Lands lying in thoſe parts
                      </gap> and Expence which has neceſſarily accrued and ariſen in the year laſt paſt, and this preſent year, in providing for the ſafety and defence of His Majeſties Subjects and Intereſts in this Province; For Repairing and Setting in order the Caſtle and Fortifications about the ſame, and further Strengthing and Enforcement thereof; The pur<g ref="char:EOLhyphen"/>chaſing of Proviſions, Ammunition, and other Stores of War; The Fitting, Victualling and Manning of the Province</hi> Gally, <hi>and</hi> Fire Ship; <hi>The Hire of Tranſports and other Veſſel  that have been here taken up and imployed in His Majeſties Service; The Wages become due unto the Commanders, Officers, Souldiers and Seamen, that have been imployed in the ſaid Service; The Subſiſting of Seamen and Souldiers, poſted in Garriſons, and ſent forth in purſuit of the Enemy; And for the Support of the Government, and anſwering of the Incident and Contingent Charges in and about the ſame.</hi> We His Majeſties Loyal and Dutiful Sub<g ref="char:EOLhyphen"/>jects, the Repreſentatives of this His Majeſties Province of the <hi>Maſſachuſetts-Bay</hi> in <hi>New-England,</hi> Convened in General Aſſembly: <hi>For and towards the Defreying of the before <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> ſeveral Charges and Expences, and of other the juſt Debts due from this Province; For the Payment of ſuch Salaries, Gratuities and Allowances, as have been or ſhall be made, by the General Aſſembly; And all ſuch Allowances and Payments as are directed by any Act of this Province, to be paid out of the publick Treaſury; And for the further Support of the Go<g ref="char:EOLhyphen"/>vernment, defence of the Province, and Proſecution of the War againſt His Majeſties Enemies; and for no other ends or uſes whatever</hi>:
-<pb n="242" facs="tcp:000789_0015_0FAA556CB3E76A20"/>
+<pb n="242" facs="unknown:000789_0015_0FAA556CB3E76A20"/>
 Do Unanimouſly grant unto His moſt Excellent <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> of <hi>Six Thouſand</hi> and <hi>Forty Pounds Ten Shillings</hi> in Mon<gap reason="illegible: indecipherable" extent="2 letters">
@@ -408,7 +408,7 @@ Do Unanimouſly grant unto His moſt Excellent <gap reason="illegible: indeciphe
                   </gap> ſame againſt his or <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> name reſpectively, the firſt Column to contain the number of Polls for which ſuch perſon is aſſeſſed, and the Sum ſet upon each of them, the ſecond Column to contain the Houſing Land or other real Eſtate, for which ſuch perſon is aſſeſſed, and the Sum ſet there<g ref="char:EOLhyphen"/>upon, and the third Column to contain the Sum by them ſet upon ſuch perſon for his or her perſonal Eſtate and Faculty. And alſo requiring the ſaid Select-men, Truſtees or Aſſeſſors, to commit the ſaid Liſt, ſo perfected, and ſigned by them or the major part of them, unto the Collector, Conſtable or Conſtables of ſuch Town or Precinct, and alſo to return a Certificate of the name or names of ſuch Collector, Conſtable or Conſtables, together with the Sum total of the Liſt to each of them reſpectively committed unto the Trea<g ref="char:EOLhyphen"/>ſurer ſome time before the laſt day of <hi>November</hi> next enſuing. And the Treaſurer upon Receipt of ſuch Certificate, is hereby impowred and ordered to iſſue forth his Warrant to the ſaid Collector, Conſta<g ref="char:EOLhyphen"/>ble or Conſtables, requiring him or them reſpectively to collect the
-<pb n="243" facs="tcp:000789_0016_0FAA556D6DB310F0"/>
+<pb n="243" facs="unknown:000789_0016_0FAA556D6DB310F0"/>
 total of the ſaid Liſt, and to pay the ſame into the Treaſury, and iſſue the Accompts thereof with himſelf or his Succeſſors in ſaid Office, at or before the laſt day of <hi>January</hi> next following.</p>
                <p>And the Treaſurer is hereby alſo directed to ſend his aforeſaid Warrants incloſed to the Sheriff or Marſhal of each reſpective Coun<g ref="char:EOLhyphen"/>ty, who is hereby required immediately to diſperſe and tranſmit the ſame unto the Select-men, Truſtees, Aſſeſſors, Conſtables or Col<g ref="char:EOLhyphen"/>lectors of the ſeveral Towns and Precincts according to the directi<g ref="char:EOLhyphen"/>ons thereof<g ref="char:punc">▪</g> and for his ſaid Service, Charge and Expences therein, ſhall have a reaſonable allowance ordered him by the Court of Quarter Seſſions in ſuch County, out of the County Treaſury upon his laying the Accompt thereof before them.</p>
                <p>
@@ -585,7 +585,7 @@ total of the ſaid Liſt, and to pay the ſame into the Treaſury, and iſſue t
                         <cell>00</cell>
                         <cell>00</cell>
                      </row>
-                     <pb n="244" facs="tcp:000789_0017_0FAA556E306FEAE8"/>
+                     <pb n="244" facs="unknown:000789_0017_0FAA556E306FEAE8"/>
                      <row>
                         <cell>
                            <hi>Marblehead,</hi> Ninety Pounds.</cell>
@@ -886,7 +886,7 @@ total of the ſaid Liſt, and to pay the ſame into the Treaſury, and iſſue t
                      </row>
                   </table>
                   <table>
-                     <pb n="245" facs="tcp:000789_0018_0FAA556F1BD29AB8"/>
+                     <pb n="245" facs="unknown:000789_0018_0FAA556F1BD29AB8"/>
                      <head>In the County of <hi>Barnſtable.</hi>
                      </head>
                      <row>
@@ -1076,7 +1076,7 @@ total of the ſaid Liſt, and to pay the ſame into the Treaſury, and iſſue t
                   <hi>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid,</hi>
                </p>
                <p>That the Select men or Truſtees of each of the ſaid Towns and Precincts before mentioned, ſhall forthwith grant their Warrants for the convening the Inhabitants of ſuch Town or Precinct, to chooſe three, five or ſeven able and diſcreet perſons being Freeholders with<g ref="char:EOLhyphen"/>in the ſame (each perſon by common eſteem to be worth at leaſt
-<pb n="246" facs="tcp:000789_0019_0FAA55768BD7E028"/>
+<pb n="246" facs="unknown:000789_0019_0FAA55768BD7E028"/>
 One Hundred and Fifty Pounds in real and perſonal Eſtate) to be the Aſſeſſors of ſuch Town or Precinct for the Sum proportioned and ſet upon them by this Act. And all and every perſon and per<g ref="char:EOLhyphen"/>ſons ſo choſen for Aſſeſſors, and accepting thereof, ſhall take the Oath following. <hi>That is to ſay,</hi>
                   <q>YOU <hi>A. B.</hi> being Choſen an Aſſeſſor for the Town of <hi>C.</hi> for this pre<g ref="char:EOLhyphen"/>ſent Tax: <hi>Do Swear,</hi> That you will impartially and equally diſ<g ref="char:EOLhyphen"/>charge the ſaid Truſt in proportioning the Sum to be aſſeſſed upon the ſaid Town after the beſt of your diſcretion and judgment. <hi>So help you God,</hi> &amp;c.</q>
                </p>
@@ -1085,7 +1085,7 @@ One Hundred and Fifty Pounds in real and perſonal Eſtate) to be the Aſſeſſ
                   <hi>Provided always, And be it further E<g ref="char:EOLhyphen"/>nacted by the Authority aforeſaid,</hi>
                </p>
                <p>That as well the Sum herein before ſet and proportioned to the Farms or Precinct called <hi>Framingham,</hi> as the Sum of <hi>Eight Pounds</hi> ſet and proportioned to ſaid Precinct, by the Act, <hi>For granting unto His Majeſty a Tax upon Polls and Eſtates:</hi> Paſſed by this Court at their Seſſion in <hi>May</hi> laſt (which is yet unaſſeſſed and not collected) ſhall be aſſeſſeſſed upon the Polls and Eſtates in ſaid Precinct, by the Aſ<g ref="char:EOLhyphen"/>ſeſſors of the adjacent Town of <hi>Marleborough,</hi> and that the Inhabi<g ref="char:EOLhyphen"/>tants of ſaid Farms or Precinct, ſhall have liberty, and are hereby impowred to chooſe one Aſſeſſor from amongſt themſelves to joyn with the Aſſeſſors of ſaid Town of <hi>Marlborough</hi> in aſſeſſing and pro<g ref="char:EOLhyphen"/>portioning the aforeſaid Sums ſet upon ſaid Precinct, and alſo to ap<g ref="char:EOLhyphen"/>point a Collector for the gathering in and collecting of the ſame. And the Treaſurer is hereby ordered and directed in his Warrant to be ſent to the Aſſeſſors of <hi>Marlborough</hi> aforeſaid, to require them to aſſeſs as well the Sum herein ſet upon ſaid Town, as the above-men<g ref="char:EOLhyphen"/>tioned Sums ſet upon <hi>Framingham</hi> aforeſaid, and to make return as above directed, with the name likewiſe of the Collector to be ap<g ref="char:EOLhyphen"/>pointed by ſaid Precinct, whom the Treaſurer ſhall impower, to col<g ref="char:EOLhyphen"/>lect and pay in the ſaid Sums in manner and time as is before expreſ<g ref="char:EOLhyphen"/>ſed for this preſent Tax. And in caſe the Inhabitants of ſaid Pre<g ref="char:EOLhyphen"/>cinct,
-<pb n="247" facs="tcp:000789_0020_0FAA55772B825228"/>
+<pb n="247" facs="unknown:000789_0020_0FAA55772B825228"/>
 ſhall not appoint a Collector as aforeſaid, for collecting the Sums ſet upon ſaid Precinct, the ſame ſhall be committed unto the Conſtable or Collector of the ſaid Town of <hi>Marlborough,</hi> who ſhall be impowred by the Treaſurer for the collecting thereof. Any thing herein contained to the contrary notwithſtanding.</p>
                <p>
                   <hi>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid,</hi>
